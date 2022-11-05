@@ -1,7 +1,3 @@
-# License : GPLv2.0
-# copyright (c) 2021  Dave Bailey
-# Author: Dave Bailey (dbisu, @daveisu)
-
 import usb_hid
 from adafruit_hid.keyboard import Keyboard
 
